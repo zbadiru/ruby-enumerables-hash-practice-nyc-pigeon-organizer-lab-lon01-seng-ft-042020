@@ -11,4 +11,5 @@ date.each do |key, value|
       end
       new_hash[name][key] << new_value.to_s
     end
+  end
 end
