@@ -6,5 +6,5 @@ date.each do |key, value|
       if !new_hash[name]
         new_hash[name] = { }
       end 
-      if 
+      if new_hash
 end
