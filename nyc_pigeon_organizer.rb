@@ -9,5 +9,5 @@ date.each do |key, value|
       if new_hash[name][key]
         new_hash[name][key] = [ ]
       end
-      new_hash
+      new_hash[name][key]
 end
